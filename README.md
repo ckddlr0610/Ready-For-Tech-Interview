@@ -4,14 +4,14 @@
 
 ## Data Structure
 
-- [직렬화란?](/DataStructure/What is Serialization.md)
+- [직렬화란?](#직렬화란)
 
 ## Network
 
-- [Access Token, Refresh Token](/Network/Access Token, Refresh Token.md)
-- [URL과 URI의 차이](/Network/Difference of URI, URL.md)
+- [Access Token, Refresh Token](#token의-정의)
+- [URL과 URI의 차이](#url과-uri의-차이)
 
 ## Android
 
-- [ListView와 RecyclerView의 차이](/Android/ListView와 RecyclerView의 차이.md) 
+- [ListView와 RecyclerView의 차이](#listview와-recyclerview의-차이) 
 
