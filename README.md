@@ -42,6 +42,11 @@ jwasham의 [Coding Interview University](https://github.com/jwasham/coding-inter
 
 - [DP vs recursive implementation](https://www.coursera.org/lecture/algorithmic-thinking-2/dp-vs-recursive-implementation-M999a)
 
+## BackTracking
+
+- [N Queens: Backtracking](https://www.coursera.org/lecture/what-is-a-proof/n-queens-backtracking-example-optional-YiULQ)
+- [ ] 백준 9663번: N-Queen 
+
 ## Network
 
 - [Access Token, Refresh Token](#token의-정의)
