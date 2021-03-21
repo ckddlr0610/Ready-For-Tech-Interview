@@ -40,17 +40,22 @@ jwasham의 [Coding Interview University](https://github.com/jwasham/coding-inter
 
 ## Dynamic Programming
 
-- [DP vs recursive implementation](https://www.coursera.org/lecture/algorithmic-thinking-2/dp-vs-recursive-implementation-M999a)
+- [DP vs recursive implementation (영상)](https://www.coursera.org/lecture/algorithmic-thinking-2/dp-vs-recursive-implementation-M999a)
 
 ## BackTracking
 
-- [N Queens: Backtracking](https://www.coursera.org/lecture/what-is-a-proof/n-queens-backtracking-example-optional-YiULQ)
+- [N Queens: Backtracking (영상)](https://www.coursera.org/lecture/what-is-a-proof/n-queens-backtracking-example-optional-YiULQ)
 - [ ] 백준 9663번: N-Queen 
 
 ## Network
 
 - [Access Token, Refresh Token](#token의-정의)
 - [URL과 URI의 차이](#url과-uri의-차이)
+
+## Java
+
+- [Core: Abstract Classes and Interface (영상)](https://www.coursera.org/lecture/object-oriented-java/core-abstract-classes-and-interfaces-lc1ml)
+- [Interfaces and Abstract Classes (영상)](https://www.coursera.org/lecture/java-programming-design-principles/interfaces-and-abstract-classes-dXxMO)
 
 ## Android
 
