@@ -18,7 +18,7 @@ jwasham의 [Coding Interview University](https://github.com/jwasham/coding-inter
 
 ## Data Structure
 
-- [직렬화란?](#직렬화란)
+- ㅈ[직렬화란?](#직렬화란)
 - 배열
   - 시간 복잡도
     - 접근, 수정, 배열의 끝에 삽입할 때 O(1). Index를 가지기 때문
@@ -29,6 +29,7 @@ jwasham의 [Coding Interview University](https://github.com/jwasham/coding-inter
     - 배열과 반대로 특정 위치에 삽입 / 삭제하는 경우 O(1)
     - 특정 위치에 접근하는 경우 O(n)
 - 스택
+  - FIFO의 특성, 연결 리스트와 배열로 구현이 가능합니다. 각 자료구조로 구현할 때의 장,단점을 명확히 알아야 합니다.
 - 큐
 - 트리
   - 트리는 노드로 이루어진 자료구조. 그래프는 트리의 한 종류이며, 일반적으로 말하는 트리는 하나의 루트 노드와 0개 이상의 자식 노드를 가지고 있다. 자식 노드 역시 0개 이상의 자식노드를 가진다.
@@ -62,6 +63,9 @@ jwasham의 [Coding Interview University](https://github.com/jwasham/coding-inter
 ## Android
 
 - [ListView와 RecyclerView의 차이](#listview와-recyclerview의-차이) 
+- DP와 DPI
+  - 많은 디바이스들은 각각 다른 화면 크기를 가지고 있습니다. DPI는 Dots Per Inch의 약자로, 1인치에 얼만큼의 Pixel이 들어가있는지를 나타내는 단위입니다. 각기 다른 DPI 수치를 좀 더 간단히 하기 위해 우리는 Logical DPI를 사용합니다. MDPI, XXDPI와 같은 것들입니다. 각기 다른 DPI에 동일한 UI를 보여주기 위해서는 뷰의 크기를 pixel 단위로 잡는 것보다는 DP로 잡는 것이 더 좋습니다. DP는 Density Independent Pixels로 각기 다른 DPI에 상대적인 크기를 제공합니다. MDPI에선 1dp가 1px이지만 XXDPI에서는 4px과 같은 것입니다. 이러한 DP를 사용함으로써 각기 다른 사이즈를 가진 기기에 대응할 수 있습니다.
+  - [DesignBytes: Density-independent Pixels (영상)](https://www.youtube.com/watch?v=zhszwkcay2A&t=103s)
 
 ## Problem Solving
 
