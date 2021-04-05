@@ -50,6 +50,10 @@ jwasham의 [Coding Interview University](https://github.com/jwasham/coding-inter
 - [N Queens: Backtracking (영상)](https://www.coursera.org/lecture/what-is-a-proof/n-queens-backtracking-example-optional-YiULQ)
 - [ ] 백준 9663번: N-Queen 
 
+## OS
+
+- [교착 상태와 해결 방법](https://ko.wikipedia.org/wiki/%EA%B5%90%EC%B0%A9_%EC%83%81%ED%83%9C)
+
 ## Network
 
 - [Access Token, Refresh Token](#token의-정의)
