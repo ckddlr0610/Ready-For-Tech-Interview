@@ -33,6 +33,11 @@ jwasham의 [Coding Interview University](https://github.com/jwasham/coding-inter
   - [ ] BFS 인접 행렬로 구현하기
 - 해시 테이블
 
+## Search
+
+- Binary Search algorithm
+  - 정렬된 배열에서 적용할 수 있는 탐색 알고리즘으로, 배열의 중간 값과 찾고자 하는 값을 계속 비교해가면서 문제의 크기를 1/2씩 줄여나가는 알고리즘. O(lgN)의 시간복잡도로 매우 성능이 좋은 탐색 알고리즘이다.
+
 ## Dynamic Programming
 
 - [DP vs recursive implementation (영상)](https://www.coursera.org/lecture/algorithmic-thinking-2/dp-vs-recursive-implementation-M999a)
